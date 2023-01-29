@@ -7,8 +7,6 @@
 <h2 align="center"> Here are some fancy github stats</h2>
 
 
-<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=namanlp&theme=dracula&row=1) </p>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=namanlp&theme=dracula)](https://git.io/streak-stats)
+<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=namanlp&theme=dracula&row=1> </p>
+<p align="center"> <img src=https://streak-stats.demolab.com?user=namanlp&theme=dracula> </p>
 
