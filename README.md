@@ -5,5 +5,5 @@
 💻 &nbsp; I am pursuing Bachelor of Technology in Computer Engineering
 
 <h2 align="center"> Here are some fancy github stats</h2>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=namanlp1&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=namanlp1&theme=dark)](https://git.io/streak-stats)
 
