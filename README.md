@@ -4,7 +4,7 @@
 👨‍🎓 &nbsp; I am studying at National Institute of Technology, Kurukshetra <br />
 💻 &nbsp; I am pursuing Bachelor of Technology in Computer Engineering
 
-<h2> My Projects <h2>
+<h2> My Projects </h2>
 - I am maintainer and codeveloper at [Garuda Linux](https://garudalinux.org/)
 
 <h2 align="center"> Here are some fancy github stats</h2>
