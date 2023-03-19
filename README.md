@@ -5,9 +5,9 @@
 💻 &nbsp; I am pursuing Bachelor of Technology in Computer Engineering
 
 <h2> My Projects </h2>
-- I am maintainer and codeveloper at [Garuda Linux](https://garudalinux.org/)
+- I am maintainer and co developer at [Garuda Linux](https://garudalinux.org/)
 
-<h2 align="center"> Here are some fancy github stats</h2>
+<h2 align="center"> Here are some fancy GitHub stats</h2>
 
 
 <p align="center"> <img src=https://streak-stats.demolab.com?user=namanlp&theme=dracula> </p>
