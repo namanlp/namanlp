@@ -6,8 +6,8 @@
 
 <h2> My Projects </h2>
 
-* I am a maintainer and co developer at [Garuda Linux](https://garudalinux.org/) since 2020
-
+* Maintainer and co developer at [Garuda Linux](https://garudalinux.org/) since 2020
+* Made a guide for [Rust Programming](https://rustp.org/) in 2023
 
 <h2 align="center"> Here are some fancy GitHub stats</h2>
 
