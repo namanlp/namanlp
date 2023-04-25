@@ -6,10 +6,10 @@
 
 <h2> My Projects </h2>
 
-I am a maintainer and co developer at [Garuda Linux](https://garudalinux.org/)
+* I am a maintainer and co developer at [Garuda Linux](https://garudalinux.org/) since 2020
+
 
 <h2 align="center"> Here are some fancy GitHub stats</h2>
-
 
 <p align="center"> <img src=https://streak-stats.demolab.com?user=namanlp&theme=dracula> </p>
 <p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=namanlp&theme=dracula&row=1> </p>
