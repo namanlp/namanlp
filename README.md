@@ -9,6 +9,13 @@
 * Maintainer and co developer at [Garuda Linux](https://garudalinux.org/) since 2020
 * Made a guide for [Rust Programming](https://rustp.org/) in 2023
 
+<h2> Get in touch </h2>
+
+<div align="center"> 
+<a href="https://www.linkedin.com/in/namanlp/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+</div>
+
+
 <h2 align="center"> Here are some fancy GitHub stats</h2>
 
 <p align="center"> <img src=https://streak-stats.demolab.com?user=namanlp&theme=dracula> </p>
