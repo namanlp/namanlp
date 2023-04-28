@@ -13,6 +13,7 @@
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/namanlp/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://gitlab.com/Namanlp/"> <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" /> </a>
 </div>
 
 
