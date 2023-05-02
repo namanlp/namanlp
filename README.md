@@ -7,13 +7,14 @@
 <h2> My Projects </h2>
 
 * Maintainer and co developer at [Garuda Linux](https://garudalinux.org/) since 2020
-* Made a guide for [Rust Programming](https://rustp.org/) in 2023
+* Made a guide for <a href="https://rustp.org/"> Rust Programming </a> in 2023
 
 <h2> Get in touch </h2>
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/namanlp/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a href="https://gitlab.com/Namanlp/"> <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" /> </a>
+<a href="https://github.com/namanlp/"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 </div>
 
 
