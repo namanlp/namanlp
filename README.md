@@ -16,6 +16,7 @@
 <a href="https://gitlab.com/Namanlp/"> <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" /> </a>
 <a href="https://github.com/namanlp/"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 <a href="https://www.codechef.com/users/namanlp/"> <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /> </a>
+<a href="https://twitter.com/Namanlp"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
 </div>
 
 
