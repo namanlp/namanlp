@@ -9,6 +9,8 @@
 * Maintainer and co developer at [Garuda Linux](https://garudalinux.org/) since 2020
 * Made a guide for <a href="https://rustp.org/"> Rust Programming </a> in 2023
 
+<h2> Programming Languages </h2>
+
 <h2> My Profiles </h2>
 
 <div align="center"> 
