@@ -12,10 +12,10 @@
 <h2> Programming Languages </h2>
 
 <div align="center">
-<img src="./images/ProgrammingLanguageLogo/c.png">
-<img src="./images/ProgrammingLanguageLogo/cpp.png">
-<img src="./images/ProgrammingLanguageLogo/java.png">
-<img src="./images/ProgrammingLanguageLogo/python.png">
+<img src="./images/ProgrammingLanguageLogo/c.png" height="32px">
+<img src="./images/ProgrammingLanguageLogo/cpp.png" height="32px">
+<img src="./images/ProgrammingLanguageLogo/java.png" height="32px">
+<img src="./images/ProgrammingLanguageLogo/python.png" height="32px">
 </div>
 
 <h2> My Profiles </h2>
