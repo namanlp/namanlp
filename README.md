@@ -14,6 +14,7 @@
 <div align="center">
 <img src="./images/ProgrammingLanguageLogo/c.png" height="64px">
 <img src="./images/ProgrammingLanguageLogo/cpp.png" height="64px">
+<img src="./images/ProgrammingLanguageLogo/rust.png" height="64px">
 <img src="./images/ProgrammingLanguageLogo/java.png" height="64px">
 <img src="./images/ProgrammingLanguageLogo/python.png" height="64px">
 </div>
