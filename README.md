@@ -17,6 +17,9 @@
 <img src="./images/ProgrammingLanguageLogo/rust.png" height="64px">
 <img src="./images/ProgrammingLanguageLogo/java.png" height="64px">
 <img src="./images/ProgrammingLanguageLogo/python.png" height="64px">
+<img src="./images/ProgrammingLanguageLogo/javascript.png" height="64px">
+<img src="./images/ProgrammingLanguageLogo/html.png" height="64px">
+<img src="./images/ProgrammingLanguageLogo/css.png" height="64px">
 </div>
 
 <h2> My Profiles </h2>
