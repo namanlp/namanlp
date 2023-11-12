@@ -6,6 +6,9 @@
 You can contact me on <a href="mailto:naman@garudalinux.org"> naman@garudalinux.org </a> to hire me. </b>
 </div>
 
+<br />
+<br />
+
 
 🇮🇳 &nbsp; I am from Kaithal, Haryana, India <br />
 👨‍🎓 &nbsp; I am studying at National Institute of Technology, Kurukshetra <br />
