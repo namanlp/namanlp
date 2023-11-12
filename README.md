@@ -2,8 +2,8 @@
 
 
 <div align="center">
-<h3> I am currently looking for a summer 2024 internship. <br/>
-You can contact me on <a href="mailto:naman@garudalinux.org"> naman@garudalinux.org </a> to hire me. </h3>
+<b> I am currently looking for a summer 2024 internship. <br/>
+You can contact me on <a href="mailto:naman@garudalinux.org"> naman@garudalinux.org </a> to hire me. </b>
 </div>
 
 
