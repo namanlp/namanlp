@@ -1,6 +1,11 @@
 <h1 align="center"> Hi there, This is Naman Garg  <img src="images/wave.gif"  alt="Waving Hand" width="60px" /></h1>
 
-<h3> I am currently looking for a summer 2024 internship. You can contact me on <a href="mailto:naman@garudalinux.org"> naman@garudalinux.org </a> to hire me.
+
+<div align="center">
+<b> I am currently looking for a summer 2024 internship. <br/>
+You can contact me on <a href="mailto:naman@garudalinux.org"> naman@garudalinux.org </a> to hire me. </b>
+</div>
+
 
 🇮🇳 &nbsp; I am from Kaithal, Haryana, India <br />
 👨‍🎓 &nbsp; I am studying at National Institute of Technology, Kurukshetra <br />
