@@ -7,6 +7,7 @@
 
 <h2> My Projects </h2>
 
+* Upcoming Intern at [CrabNebula](https://crabnebula.dev/)
 * Maintainer and co developer at [Garuda Linux](https://garudalinux.org/) since 2020
 * Made a guide for <a href="https://rustp.org/"> Rust Programming </a> in 2023
 
