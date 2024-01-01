@@ -41,5 +41,3 @@
 
 <p align="center"> <img src=https://streak-stats.demolab.com?user=namanlp&theme=dracula> </p> <br/>
 <p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=namanlp&theme=dracula&row=1> </p>
-
-Happy New Year 2024 !
