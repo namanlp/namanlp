@@ -8,7 +8,8 @@
 
 <h2> My Projects </h2>
 
-* Working at [CrabNebula](https://crabnebula.dev/) since January 2024
+* Contributing to the The Rust Foundation as part of the [Google Summer of Code 2025 program](https://summerofcode.withgoogle.com/programs/2025/projects/nUt4PdAA). 
+* Worked at [CrabNebula](https://crabnebula.dev/) from January 2024 to January 2025.
 * Made a guide for <a href="https://rustp.org/"> Rust Programming </a> in 2023
 * Hosting [Arch Linux mirror](https://in-mirror.garudalinux.org/) on home server since 2021.
 * Maintainer and co developer at [Garuda Linux](https://garudalinux.org/) since 2020
