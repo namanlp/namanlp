@@ -2,8 +2,7 @@
 
 <h4 align="center"> Book meeting 💻 with me at <a href = "https://cal.com/namanlp"> Cal.com/namanlp 🗓️ </a> </h4>
 🇮🇳  &nbsp; I am from Kaithal, Haryana, India <br />
-👨‍🎓 &nbsp; I am studying at National Institute of Technology, Kurukshetra <br />
-💻 &nbsp; I am pursuing Bachelor of Technology in Computer Engineering <br />
+💻 &nbsp; I have completed B.Tech in Computer Engineering from National Institute of Technology, Kurukshetra <br />
 😎 &nbsp; I am Enjoying what I do.
 
 <h2> My Projects </h2>
