@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, This is Naman Garg  <img src="images/wave.gif"  alt="Waving Hand" width="60px" /></h1>
+<h1 align="center"> Hi there, this is Naman Garg  <img src="images/wave.gif"  alt="Waving Hand" width="60px" /></h1>
 
 <h4 align="center"> Book meeting 💻 with me at <a href = "https://cal.com/namanlp"> Cal.com/namanlp 🗓️ </a> </h4>
 🇮🇳  &nbsp; I am from Kaithal, Haryana, India <br />
