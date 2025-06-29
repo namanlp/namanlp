@@ -2,7 +2,7 @@
 
 <h4 align="center"> Book meeting 💻 with me at <a href = "https://cal.com/namanlp"> Cal.com/namanlp 🗓️ </a> </h4>
 🇮🇳 &nbsp; I am from Kaithal, Haryana, India <br />
-🧑‍🎓 &nbsp; I am currently pursuing MS Research in Computer Science and Engineering from IIT Delhi.
+🧑‍🎓 &nbsp; I am currently pursuing MS Research in Computer Science and Engineering from IIT Delhi. <br />
 💻 &nbsp; I have completed B.Tech in Computer Engineering from National Institute of Technology, Kurukshetra <br />
 😎 &nbsp; I am Enjoying what I do.
 
