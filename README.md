@@ -2,10 +2,11 @@
 
 
 <h4 align="center"> Book meeting 💻 with me at <a href = "https://cal.com/namanlp"> Cal.com/namanlp 🗓️ </a> </h4>
-🇮🇳 &nbsp; I am from Kaithal, Haryana, India <br />
-🧑‍🎓 &nbsp; I am currently pursuing M.S. Research in Computer Science and Engineering from IIT Delhi. <br />
-💻 &nbsp; I have completed B.Tech in Computer Engineering from National Institute of Technology, Kurukshetra <br />
-😎 &nbsp; I am Enjoying what I do.
+🇮🇳 &nbsp; From Kaithal, Haryana, India <br />
+💼 &nbsp; Intern at IBM Research, contributing to Qiskit <br />
+🧑‍🎓 &nbsp; Pursuing M.S. Research in Computer Science and Engineering from IIT Delhi. <br />
+💻 &nbsp; Completed B.Tech in Computer Engineering from National Institute of Technology, Kurukshetra <br />
+😎 &nbsp; Enjoying what I do.
 
 <h2> My Projects </h2>
 
