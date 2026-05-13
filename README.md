@@ -3,6 +3,7 @@
 
 <h4 align="center"> Book meeting 💻 with me at <a href = "https://cal.com/namanlp"> Cal.com/namanlp 🗓️ </a> </h4>
 🇮🇳 &nbsp; From Kaithal, Haryana, India <br />
+
 💼 &nbsp; Intern at IBM Research, contributing to [Qiskit](https://github.com/Qiskit/qiskit) <br />
 🧑‍🎓 &nbsp; Pursuing M.S. Research in Computer Science and Engineering from IIT Delhi. <br />
 💻 &nbsp; Completed B.Tech in Computer Engineering from National Institute of Technology, Kurukshetra <br />
